@@ -14,7 +14,6 @@ def open_website():
     allow_btn = driver.find_element(By.ID, 'CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll')
     allow_btn.click()
 
-# 
 def start_type():
     """Run typing hack"""
     open_website()
