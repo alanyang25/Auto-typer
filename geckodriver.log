@@ -1,0 +1,181 @@
+1618138360674	geckodriver	INFO	Listening on 127.0.0.1:61964
+1618138500859	geckodriver	INFO	Listening on 127.0.0.1:61989
+1618139083095	geckodriver	INFO	Listening on 127.0.0.1:62028
+1618139328025	geckodriver	INFO	Listening on 127.0.0.1:62073
+1618139564481	geckodriver	INFO	Listening on 127.0.0.1:52509
+1618147029951	geckodriver	INFO	Listening on 127.0.0.1:53002
+1618147033036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofileX9xC90"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618147035853	Marionette	INFO	Listening on port 53011
+1618147036207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1618147049991	Marionette	INFO	Stopped listening on port 53011
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618147055887	geckodriver	INFO	Listening on 127.0.0.1:53089
+1618147058977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofile9xFgzB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618147061677	Marionette	INFO	Listening on port 53097
+1618147062168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1618147081242	Marionette	INFO	Stopped listening on port 53097
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618147083285	geckodriver	INFO	Listening on 127.0.0.1:53172
+1618147086382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofilexSafR7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618147089144	Marionette	INFO	Listening on port 53182
+1618147089555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1618147096891	Marionette	INFO	Stopped listening on port 53182
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618147107748	geckodriver	INFO	Listening on 127.0.0.1:53260
+1618147110825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofilePQMbNR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618147113623	Marionette	INFO	Listening on port 53269
+1618147113991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1618147123454	Marionette	INFO	Stopped listening on port 53269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618148022694	geckodriver	INFO	Listening on 127.0.0.1:56391
+1618148025802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofileBTHDJA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618148028680	Marionette	INFO	Listening on port 56399
+1618148028994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1618148061677	Marionette	INFO	Stopped listening on port 56399
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618148782647	geckodriver	INFO	Listening on 127.0.0.1:63469
+1618148785722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofilekCIuFA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618148788943	Marionette	INFO	Listening on port 63480
+1618148789360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1618148809675	Marionette	INFO	Stopped listening on port 63480
+1618148830831	geckodriver	INFO	Listening on 127.0.0.1:54494
+1618148833876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofilegKPYTm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618148836585	Marionette	INFO	Listening on port 54504
+1618148837014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+1618148857547	Marionette	INFO	Stopped listening on port 54504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618148864702	geckodriver	INFO	Listening on 127.0.0.1:54633
+1618148867786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofileIAofLO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618148870430	Marionette	INFO	Listening on port 54642
+1618148870450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30342D31315F31367D7B7331343433373136357D7B433236327D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F77696E646F77737D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=2001%3Ab011%3A30d0%3A362d%3Af5c3%3A9d48%3A954b%3Aaec9&userUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A87.0%29+Gecko%2F20100101+Firefox%2F87.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=6072fddced77e&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8xykoqtiu&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Fenglish&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=2&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=24.9389&geoLong=121.5422&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 321: TypeError: this.config.onViewabilityChange is undefined
+1618148893255	Marionette	INFO	Stopped listening on port 54642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618150055235	geckodriver	INFO	Listening on 127.0.0.1:55930
+1618150058329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofile91GaqX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618150061172	Marionette	INFO	Listening on port 55940
+1618150061489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/js/speedtest/speedtest.js?1617609352, line 249: TypeError: p is undefined
+JavaScript error: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30342D31315F31377D7B7331343433373136357D7B433236327D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F77696E646F77737D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=2001%3Ab011%3A30d0%3A362d%3Af5c3%3A9d48%3A954b%3Aaec9&userUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A87.0%29+Gecko%2F20100101+Firefox%2F87.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=607302909ad82&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8xykoqtiu&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Fenglish&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=2&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=24.9389&geoLong=121.5422&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 321: TypeError: this.config.onViewabilityChange is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618150574848	Marionette	INFO	Stopped listening on port 55940
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618186012936	geckodriver	INFO	Listening on 127.0.0.1:61364
+1618186016001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofileCVCcLN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618186020812	Marionette	INFO	Listening on port 61373
+1618186020878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30342D31325F30337D7B7331343433373136357D7B433236327D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F77696E646F77737D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=2001%3Ab011%3A30d0%3A322f%3A5d19%3A18ab%3Af58%3A8a5c&userUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A87.0%29+Gecko%2F20100101+Firefox%2F87.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=60738f158301a&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8xykoqtiu&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Fenglish&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=2&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=24.9389&geoLong=121.5422&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 321: TypeError: this.config.onViewabilityChange is undefined
+JavaScript error: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032312D30342D31325F30337D7B7331343433373136357D7B433236327D7B534D54426D59584E305A6D6C755A3256796379356A6232303D7D7B6266697265666F787D7B716465736B746F707D7B6F77696E646F77737D7B583730307D7B593437367D7B66317D7B4C383936367DFEFE&userIpAddr=2001%3Ab011%3A30d0%3A322f%3A5d19%3A18ab%3Af58%3A8a5c&userUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A87.0%29+Gecko%2F20100101+Firefox%2F87.0&debugInformation=&isWePassGdpr=1&schain=1.0%2C1%21freestar.com%2C19%2C1&noViewableMidrollPolicy=vary&isDoublePreroll=1&autoSkipVideoSec=30&c2pWaitTime=10&csuuid=60738f158301a&debugInfo=14437165_&debugPlayerSession=&pubUrlDEMO=&isAsyncDEMO=0&customPlaylistIdDEMO=&sta=14437165&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembed20f8xykoqtiu&secondaryContent=&x=700&y=476&pubUrl=https%3A%2F%2F10fastfingers.com%2Ftyping-test%2Fenglish&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_closeButtonPosition=right&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=105&impGap=2&flow_width=400&flow_height=225&videoType=sticky&gdpr=0&gdprConsent=&contentFeedId=&geoLati=24.9389&geoLong=121.5422&vpTemplate=8966&flowMode=both&isRealPreroll=0&playerApiId=freestarPrimisPlayer&isApp=0&ccpa=0&ccpaConsent=, line 313: TypeError: i.config is undefined
+1618186364124	Marionette	INFO	Stopped listening on port 61373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618189716081	geckodriver	INFO	Listening on 127.0.0.1:63778
+1618189719181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofileIcmnvZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618190031088	geckodriver	INFO	Listening on 127.0.0.1:62788
+1618190034232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Spencer\\AppData\\Local\\Temp\\rust_mozprofilerm1QAg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618190038231	Marionette	INFO	Listening on port 62797
+1618190038453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://10fastfingers.com/typing-test/english line 1 > injectedScript, line 2: ReferenceError: freestar is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618191677578	Marionette	INFO	Stopped listening on port 62797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
