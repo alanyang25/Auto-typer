@@ -1,7 +1,7 @@
 # Auto-typer
 
 ## What is this
-This is a Python script that opens "10 fast fingers", a typing pratice website, and take the typing test automatically.
+This is a Python script that opens "(10 fast fingers)[https://10fastfingers.com/typing-test/english]", a typing pratice website, and take the typing test automatically.
 
 ## Requirements
 * pip install selenium
