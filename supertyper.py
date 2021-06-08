@@ -3,7 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
-driver = webdriver.Chrome()
+# add the path of chromedriver.exe
+driver = webdriver.Chrome(executable_path=r'C:\webdrivers\chromedriver.exe')
 
 url = 'https://10fastfingers.com/typing-test/english'
 
